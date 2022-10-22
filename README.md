@@ -1,4 +1,4 @@
-## 50 Projects
+## 50 Javascript Projects
 
 <ol>
 <li>Expanding Cards</li>
